@@ -1,6 +1,6 @@
 === AdminLabs ===
 Contributors: sippis, rolle
-Tags: monitoring, performance, scan, uptime, availability, maintenance, server monitoring, outage, AdminLabs
+Tags: monitoring, performance, scan, uptime, availability, maintenance, server monitoring, outage, AdminLabs, admin labs
 Requires at least: 4.8
 Tested up to: 4.9.5
 Requires PHP: 5.6
