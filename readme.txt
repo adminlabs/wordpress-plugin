@@ -2,7 +2,7 @@
 Contributors: sippis, rolle
 Tags: monitoring, performance, scan, uptime, availability, maintenance, server monitoring, outage, AdminLabs, admin labs
 Requires at least: 4.8
-Tested up to: 4.9.5
+Tested up to: 4.9.4
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv3
