@@ -23,7 +23,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 if ( ! class_exists( 'AdminLabs' ) ) :
 
-	define( 'ADMINLABS_PLUGIN_VERSION', '1.0.0' );
+	define( 'ADMINLABS_PLUGIN_VERSION', '1.0.1' );
 
 	/**
 	 *  Our main class for this plugin

@@ -2,7 +2,7 @@
 Contributors: sippis, rolle
 Tags: monitoring, performance, scan, uptime, availability, maintenance, server monitoring, outage, AdminLabs
 Requires at least: 4.8
-Tested up to: 4.9.1
+Tested up to: 4.9.5
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv3
@@ -14,7 +14,7 @@ Be always aware of your website status. AdminLabs provides powerful monitoring a
  
 **Awareness is everything.**
 
-With AdminLabs monitoring you are always aware of your website status. Your customers expect your website to be available 24/7. How can you be  sure how your web hosting or servers perform under the hood? Don’t lose revenue because of the downtime, start monitoring your website with AdminLabs!
+With [AdminLabs](https://www.adminlabs.com/) monitoring you are always aware of your website status. Your customers expect your website to be available 24/7. How can you be  sure how your web hosting or servers perform under the hood? Don’t lose revenue because of the downtime, start monitoring your website with AdminLabs!
 
 This plugin integrates with AdminLabs and shows your website uptime and average load time right on the dashboard. Intuitive graph shows averagre load time and three latest outages are shown with detailed information.
 
@@ -31,7 +31,7 @@ You can choose the nearest scanner location in your area to get the best results
 **Our scanner locations**
 * Asia — Singapore, Japan
 * America — New York, Chicago, Dallas, Los Angeles, Seattle
-* Europe — Finland, France, UK
+* Europe — Finland, UK, Germany, Netherlands
  
 == Installation ==
  
@@ -46,7 +46,7 @@ You can choose the nearest scanner location in your area to get the best results
  
 **AdminLabs is one simple service for your needs**
 
-With AdminLabs, you don’t  need to register for different kinds of services. We provide one service for both, monitoring your web services and building a status page for communicating with your customers.
+With [AdminLabs](https://www.adminlabs.com/), you don’t  need to register for different kinds of services. We provide one service for both, monitoring your web services and building a status page for communicating with your customers.
  
 = Is AdminLabs free? =
  
