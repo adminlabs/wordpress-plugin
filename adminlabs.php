@@ -8,6 +8,8 @@
  * Plugin Name:       AdminLabs
  * Description:       Be always aware of your website status. AdminLabs provides powerful monitoring and communication services for you and your organization.
  * Version:           1.0.1
+ * Requires at least: 4.8
+ * Tested up to:      5.1
  * Author:            AdminLabs
  * Author URI:        https://www.adminlabs.com/
  * License:           GPLv3

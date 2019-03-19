@@ -2,19 +2,21 @@
 Contributors: sippis, rolle
 Tags: monitoring, performance, scan, uptime, availability, maintenance, server monitoring, outage, AdminLabs, admin labs
 Requires at least: 4.8
-Tested up to: 4.9.4
+Tested up to: 5.1
 Requires PHP: 5.6
 Stable tag: 1.0.1
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl.html
  
-Be always aware of your website status. AdminLabs provides powerful monitoring and communication services for you and your organization.
+Be always aware of your website status. Admin Labs provides powerful monitoring and communication services for you and your organization.
  
 == Description ==
  
 **Awareness is everything.**
 
-With [AdminLabs](https://www.adminlabs.com/) monitoring you are always aware of your website status. Your customers expect your website to be available 24/7. How can you be  sure how your web hosting or servers perform under the hood? Don’t lose revenue because of the downtime, start monitoring your website with AdminLabs!
+[AdminLabs](https://www.adminlabs.com/) provides one service for both monitoring your web services and building a status page for communicating transparently – building trust between you and your customers.
+
+Your customers expect your website to be available 24/7. How can you be sure how your web hosting or servers perform under the hood? Don’t lose revenue because of the downtime, start monitoring your web service with AdminLabs!
 
 This plugin integrates with AdminLabs and shows your website uptime and average load time right on the dashboard. Intuitive graph shows averagre load time and three latest outages are shown with detailed information.
 
@@ -24,14 +26,9 @@ Be first to know when something unexpected happens. We notify you automatically 
 
 Currently supported notification methods are SMS, email, Pushover, Slack and Telegram.
 
-=== Multiple scanner locations and monitoring intervals ===
+=== Global monitoring network ===
 
-You can choose the nearest scanner location in your area to get the best results. It's also your choice how often we check that your web service is up and running.
-
-**Our scanner locations**
-* Asia — Singapore, Japan
-* America — New York, Chicago, Dallas, Los Angeles, Seattle
-* Europe — Finland, UK, Germany, Netherlands
+You can’t have reliable monitoring system if the system is located only in one location. In AdminLabs, we have distributed our monitoring network all-around the world based on the demand.
  
 == Installation ==
  
